@@ -1,0 +1,137 @@
+{
+  "6283169848512": {
+    "chat": 50,
+    "role": "Temen biasa",
+    "energy": 150,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 6,
+      "reset": 1725088512827,
+      "response": false
+    },
+    "lastCharge": 1725079674724
+  },
+  "6285142748404": {
+    "chat": 4,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1725083478563,
+      "response": false
+    },
+    "lastCharge": 1725079878563
+  },
+  "6283872333544": {
+    "chat": 4,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1725084155764,
+      "response": false
+    },
+    "lastCharge": 1725080555764
+  },
+  "6283879856021": {
+    "chat": 4,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1725085181634,
+      "response": false
+    },
+    "lastCharge": 1725081581634
+  },
+  "6287840248457": {
+    "chat": 5,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1727673973306
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1725085519822,
+      "response": false
+    },
+    "lastCharge": 1725081919822
+  },
+  "628818059115": {
+    "chat": 3,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1725085575562,
+      "response": false
+    },
+    "lastCharge": 1725081975562
+  }
+}

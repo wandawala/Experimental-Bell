@@ -1,5 +1,331 @@
 {
-  "total": 0,
-  "ai_response": 0,
-  "cmd": []
+  "total": 594,
+  "ai_response": 1483,
+  "cmd": [
+    {
+      "name": "play",
+      "use": 14,
+      "times": "31/08 13:14:27"
+    },
+    {
+      "name": "menu",
+      "use": 84,
+      "times": "31/08 11:49:36"
+    },
+    {
+      "name": "pinterest",
+      "use": 26,
+      "times": "27/08 18:24:24"
+    },
+    {
+      "name": "ai",
+      "use": 15,
+      "times": "26/08 00:25:14"
+    },
+    {
+      "name": "autoai",
+      "use": 26,
+      "times": "27/08 18:24:24"
+    },
+    {
+      "name": "txt2img",
+      "use": 15,
+      "times": "31/08 11:57:42"
+    },
+    {
+      "name": "profile",
+      "use": 13,
+      "times": "31/08 11:57:42"
+    },
+    {
+      "name": "addprem",
+      "use": 17,
+      "times": "31/08 11:57:42"
+    },
+    {
+      "name": "ytmp4",
+      "use": 22,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "ytm4a",
+      "use": 40,
+      "times": "31/08 11:57:42"
+    },
+    {
+      "name": "dalle3",
+      "use": 2,
+      "times": "24/08 15:25:15"
+    },
+    {
+      "name": "s",
+      "use": 8,
+      "times": "27/08 05:52:02"
+    },
+    {
+      "name": "set",
+      "use": 14,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "cover",
+      "use": 2,
+      "times": "24/08 07:59:06"
+    },
+    {
+      "name": "cas",
+      "use": 2,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "addenergy",
+      "use": 8,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "covers",
+      "use": 11,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "getpp",
+      "use": 2,
+      "times": "24/08 20:45:24"
+    },
+    {
+      "name": "transcribe",
+      "use": 20,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "jadinyata",
+      "use": 9,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "jadianime",
+      "use": 5,
+      "times": "25/08 13:59:48"
+    },
+    {
+      "name": "d",
+      "use": 10,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "resetaichat",
+      "use": 8,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "lora",
+      "use": 8,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "group",
+      "use": 14,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "c",
+      "use": 4,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "vocalremover",
+      "use": 3,
+      "times": "24/08 09:21:55"
+    },
+    {
+      "name": "img2video",
+      "use": 2,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "prabowo",
+      "use": 5,
+      "times": "24/08 20:45:24"
+    },
+    {
+      "name": "nokotan",
+      "use": 22,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "michi_jkt48",
+      "use": 24,
+      "times": "27/08 05:52:02"
+    },
+    {
+      "name": "bell2speech",
+      "use": 1,
+      "times": "24/08 09:21:55"
+    },
+    {
+      "name": "toimg",
+      "use": 4,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "swm",
+      "use": 11,
+      "times": "24/08 15:25:15"
+    },
+    {
+      "name": "smeme",
+      "use": 5,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "pin",
+      "use": 12,
+      "times": "27/08 05:52:02"
+    },
+    {
+      "name": "whatmusic",
+      "use": 14,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "img2prompt",
+      "use": 2,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "pinvid",
+      "use": 10,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "rvo",
+      "use": 9,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "telegraph",
+      "use": 1,
+      "times": "25/08 11:02:29"
+    },
+    {
+      "name": "tourl",
+      "use": 3,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "setthumb",
+      "use": 2,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "premium",
+      "use": 7,
+      "times": "31/08 11:47:38"
+    },
+    {
+      "name": "getchid",
+      "use": 5,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "stats",
+      "use": 3,
+      "times": "27/08 18:24:24"
+    },
+    {
+      "name": "freetrial",
+      "use": 4,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "sticker",
+      "use": 3,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "8222",
+      "use": 2,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "filters",
+      "use": 3,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "getcheckpoint",
+      "use": 2,
+      "times": "25/08 15:32:34"
+    },
+    {
+      "name": "add",
+      "use": 2,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "stiker",
+      "use": 10,
+      "times": "26/08 00:25:14"
+    },
+    {
+      "name": "tiktok",
+      "use": 3,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "kick",
+      "use": 1,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "toanime",
+      "use": 2,
+      "times": "27/08 05:52:02"
+    },
+    {
+      "name": "bell",
+      "use": 2,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "mine",
+      "use": 1,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "mining",
+      "use": 1,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "ytmp3",
+      "use": 1,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "tt",
+      "use": 5,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "igdl",
+      "use": 1,
+      "times": "26/08 13:11:10"
+    },
+    {
+      "name": "instagramdl",
+      "use": 5,
+      "times": "27/08 18:24:24"
+    },
+    {
+      "name": "tiktokdl",
+      "use": 1,
+      "times": "27/08 18:24:24"
+    },
+    {
+      "name": "facebookdl",
+      "use": 1,
+      "times": "27/08 18:24:24"
+    }
+  ]
 }

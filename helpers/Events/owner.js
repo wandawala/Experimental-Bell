@@ -124,11 +124,11 @@ export default async function on({ cht, Exp, store, ev, is }) {
     ev.on({ 
         cmd: ['addenergy','kurangenergy'],
         listmenu: ['addenergy','kurangenergy'],
-        args: `*Sertakan nomor/Reply/tag target yang akan di${cht.cmd == "addenergy" ? "tambahkan":"kurangi"} energy nya!*\n\nExample: \n\n*Cara #1* => _Dengan reply pesan target_\n - ${prefix + cht.cmd} 10 \n \n*Cara #2* => _Dengan tag target_\n - ${prefix + cht.cmd} @rifza|10 \n \n*Cara #2* => _Dengan nomor target_\n - ${prefix + cht.cmd} +62 831-xxxx-xxxx|10`,
+        args: `*Sertakan nomor/Reply/tag target yang akan di${cht.cmd == "addenergy" ? "tambahkan":"kurangi"} energy nya!*\n\nExample: \n\n*Cara #1* => _Dengan reply pesan target_\n - ${prefix + cht.cmd} 10 \n \n*Cara #2* => _Dengan tag target_\n - ${prefix + cht.cmd} @wan|10 \n \n*Cara #2* => _Dengan nomor target_\n - ${prefix + cht.cmd} +62 831-xxxx-xxxx|10`,
         tag: 'owner'
     }, async() => {
         if(!is.owner) return cht.reply("Khusus owner!")
-        if(cht.mention.length < 1) return cht.reply(`Sertakan nomor/Reply/tag target yang akan di${cht.cmd == "addenergy" ? "tambahkan":"kurangi"} energy nya!*\n\nExample: \n\n*Cara #1* => _Dengan reply pesan target_\n - ${prefix + cht.cmd} 10 \n \n*Cara #2* => _Dengan tag target_\n - ${prefix + cht.cmd} @rifza|10 \n \n*Cara #2* => _Dengan nomor target_\n - ${prefix + cht.cmd} +62 831-xxxx-xxxx|10`)
+        if(cht.mention.length < 1) return cht.reply(`Sertakan nomor/Reply/tag target yang akan di${cht.cmd == "addenergy" ? "tambahkan":"kurangi"} energy nya!*\n\nExample: \n\n*Cara #1* => _Dengan reply pesan target_\n - ${prefix + cht.cmd} 10 \n \n*Cara #2* => _Dengan tag target_\n - ${prefix + cht.cmd} @wan|10 \n \n*Cara #2* => _Dengan nomor target_\n - ${prefix + cht.cmd} +62 831-xxxx-xxxx|10`)
         let num = cht.q?.split("|")?.[1] || cht.q
         if(isNaN(num)) return cht.reply("Energy harus berupa angka!")
         let sender = cht.mention[0].split("@")[0]

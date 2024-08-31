@@ -1,12 +1,12 @@
   /** !-======[ Experimentall ▪︎ Bell🦋 ]======-!
-      * Coding by @rifza.p.p *     
+      * Coding by @ wanda.p.p *     
       
       🩵 Follow ️me on :
-      ▪︎ https://youtube.com/@rifza  
+      ▪︎ https://youtube.com/@ wanda  
       ▪︎ https://github.com/Rifza123
-      ▪︎ https://instagram.com/rifza.p.p?igshid=ZGUzMzM3NWJiOQ==
-      ▪︎ https://www.threads.net/@rifza.p.p
-      ▪︎ https://xterm.tech
+      ▪︎ https://instagram.com/ wanda.p.p?igshid=ZGUzMzM3NWJiOQ==
+      ▪︎ https://www.threads.net/@ wanda.p.p
+      
   */
 /*!-======[ Preparing Configuration ]======-!*/
 await import ("./toolkit/set/string.prototype.js")
